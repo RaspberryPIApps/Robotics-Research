@@ -1,2 +1,9 @@
-# Robotics-Research
+#### Robotics-Research
 DIS and Graduate/Undergraduate research work will be documented here
+
+### Course in Spring '15 entitled "Embedded Robotics"
+In this course, the focus is on building a multiplayer game/math lesson
+infrastructure using Arduino robots, Raspberry Pi modules as stationary robots and relay stations, and Android smart phones as the user/student hand-held smart phone for interacting with the autonomous robots. Imagine the hierarchy this
+way: User/student - upper level manager; Raspberry Pi - middle level manager; Arduino robot - blue collar worker. 
+
+Raspberry Pi Apps for monitoring and control of simple low cost robots via WiFi/Blue Tooth communication We have built low cost ($100) robots for use in schools. Other commercially available robots cost $250 to $350 and are not designed for STEM learning. We have been working on incorporating math lessons that can benefit from using robots to visualize and solve the problem. Here are the links: http://csi.fau.edu/courses/robotics/ and http://robotics.fau.edu/. A group of 9th grade students have built these robots and used them to create robotic art on 6' x 6' sheets. Video links to these are at the above site. Since then we have made significant progress in enhancing precision of the robot, so the distance traveled and angle turned are mmore precise and reliably repeatable. Engineering undergraduates and graduate students this semester (spr '15) will use Raspberry Pi B+ modules with a camera and wireless link to communicate with these robots and control them - to the extent that the robot is placed in the middle of a square. A typical scenario is a 8 m x 8 m floor game with each square of the floor board game of 1m x 1m. Thus, the robot would be expected to position itself in the middle of each of the squares; but if it did not get there, the Rasp Pi modules stationed at four corners of the board will get involved and guide it to center itself. Students will use Python code to achieve this. Students are expected to explore different avenues to achieve this goal. Links to their code and documentationn will be provided here
