@@ -1,7 +1,7 @@
 #### Robotics-Research
 DIS and Graduate/Undergraduate research work will be documented here
 
-### Course in Spring '15 entitled "Embedded Robotics"
+##### Course in Spring '15 entitled "Embedded Robotics"
 In this course, the focus is on building a multiplayer game/math lesson
 infrastructure using Arduino robots, Raspberry Pi modules as stationary robots and relay stations, and Android smart phones as the user/student hand-held smart phone for interacting with the autonomous robots. Imagine the hierarchy this
 way: User/student - upper level manager; Raspberry Pi - middle level manager; Arduino robot - blue collar worker. 
